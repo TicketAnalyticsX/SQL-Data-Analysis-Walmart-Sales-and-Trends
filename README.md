@@ -64,8 +64,8 @@ The main objective of this project is to analyze the data to provide insights in
 
 - **README.md**: Project documentation.
 - **WalmartSalesData.csv**: The dataset file.
-- **queries.sql**: SQL queries used in the analysis.
-- **Insights.pdf**: Summary of findings and visualizations (optional).
+- ***.sql**: SQL queries used in the analysis.
+- **Insights into Weekend Sales and Peak Hours.pdf**: Summary of findings and visualizations (optional).
 
 ## Sample SQL Queries
 
