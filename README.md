@@ -50,7 +50,6 @@ The main objective of this project is to analyze the data to provide insights in
 ## Technologies Used
 
 - **SQL**: For querying and analysis.
-- **DataGrip**: Database management and query execution.
 - **Pandas**: For preliminary data inspection in Python.
 - **Visualization Tools** (Optional): Tableau or Excel for creating charts and graphs.
 
